@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Lesson1.Module01",
-    "\\Lesson1.Module01\\bin",
-    "\\Lesson1.Module01\\bin\\Debug\\net6.0"
+    "\\Lesson1.Module01\\bin"
   ],
-  "SelectedNode": "\\Lesson1.Module01",
+  "SelectedNode": "\\Lesson1.Module01\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

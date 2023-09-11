@@ -1,0 +1,15 @@
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson1.Module02\Lesson1.Module02\bin\Debug\net6.0\Lesson1.Module02.exe
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson1.Module02\Lesson1.Module02\bin\Debug\net6.0\Lesson1.Module02.deps.json
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson1.Module02\Lesson1.Module02\bin\Debug\net6.0\Lesson1.Module02.runtimeconfig.json
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson1.Module02\Lesson1.Module02\bin\Debug\net6.0\Lesson1.Module02.dll
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson1.Module02\Lesson1.Module02\bin\Debug\net6.0\Lesson1.Module02.pdb
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson1.Module02\Lesson1.Module02\obj\Debug\net6.0\Lesson1.Module02.csproj.AssemblyReference.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson1.Module02\Lesson1.Module02\obj\Debug\net6.0\Lesson1.Module02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson1.Module02\Lesson1.Module02\obj\Debug\net6.0\Lesson1.Module02.AssemblyInfoInputs.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson1.Module02\Lesson1.Module02\obj\Debug\net6.0\Lesson1.Module02.AssemblyInfo.cs
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson1.Module02\Lesson1.Module02\obj\Debug\net6.0\Lesson1.Module02.csproj.CoreCompileInputs.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson1.Module02\Lesson1.Module02\obj\Debug\net6.0\Lesson1.Module02.dll
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson1.Module02\Lesson1.Module02\obj\Debug\net6.0\refint\Lesson1.Module02.dll
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson1.Module02\Lesson1.Module02\obj\Debug\net6.0\Lesson1.Module02.pdb
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson1.Module02\Lesson1.Module02\obj\Debug\net6.0\Lesson1.Module02.genruntimeconfig.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson1.Module02\Lesson1.Module02\obj\Debug\net6.0\ref\Lesson1.Module02.dll
