@@ -5,25 +5,44 @@ internal class Program
     private static void Main(string[] args)
     {
 
-        //task2();
-        //task4();
-        //task5();
-        //task6();
-        //task8();
-        //task9();
-        //task10();
+        task2();
+        Console.WriteLine("------------------------------------------------------------------------------");
+        task4();
+        Console.WriteLine("------------------------------------------------------------------------------");
+        task5();
+        Console.WriteLine("------------------------------------------------------------------------------");
+        task6();
+        Console.WriteLine("------------------------------------------------------------------------------");
+        task8();
+        Console.WriteLine("------------------------------------------------------------------------------");
+        task9();
+        Console.WriteLine("------------------------------------------------------------------------------");
+        task10();
+        Console.WriteLine("------------------------------------------------------------------------------");
         task11();
+        Console.WriteLine("------------------------------------------------------------------------------");
         task12();
+        Console.WriteLine("------------------------------------------------------------------------------");
         task13();
+        Console.WriteLine("------------------------------------------------------------------------------");
         task14();
-        task15();    
+        Console.WriteLine("------------------------------------------------------------------------------");
+        task15();
+        Console.WriteLine("------------------------------------------------------------------------------");
         task16();
+        Console.WriteLine("------------------------------------------------------------------------------");
         task17();
+        Console.WriteLine("------------------------------------------------------------------------------");
         task18();
+        Console.WriteLine("------------------------------------------------------------------------------");
         task19();
+        Console.WriteLine("------------------------------------------------------------------------------");
         task20();
+        Console.WriteLine("------------------------------------------------------------------------------");
         task21();
+        Console.WriteLine("------------------------------------------------------------------------------");
         task22();
+
 
 
     }
@@ -63,14 +82,7 @@ internal class Program
         
     }
     static void task4() {
-        /*Даны целые положительные числа A и B(A < B).Вывести все целые числа от A до B включительно каждое число должно выводиться на новой строке
-         * при этом каждое число должно выводиться количество раз, равное его значению.
-         * Например: если А = 3, а В = 7, то программа должна сформировать в консоли следующий вывод:
-         3 3 3
-         4 4 4 4
-         5 5 5 5 5
-         6 6 6 6 6 6
-         7 7 7 7 7 7 7*/
+        Console.WriteLine("Даны целые положительные числа A и B (A < B). Вывести все целые числа от A до B включительно; каждое число должно выводиться на новой строке; при этом каждое число должно выводиться количество раз, равное его значению. Например: если А = 3, а В = 7, то программа должна сформировать в консоли следующий вывод:\r\n\r\n3 3 3\r\n\r\n4 4 4 4\r\n\r\n5 5 5 5 5\r\n\r\n6 6 6 6 6 6\r\n\r\n7 7 7 7 7 7 7");
 
         int A, B;
         System.Console.WriteLine("введите число А:");
@@ -292,7 +304,7 @@ internal class Program
         do { System.Console.WriteLine("Введите двухзначное число больше 10: "); }
         while (!int.TryParse(System.Console.ReadLine(), out b) || b<=10);
 
-        for (int i = 10; i < b; i++)
+        for (int i = 10; i <= b; i++)
         {
             Console.WriteLine(i * i);
         }
@@ -304,9 +316,9 @@ internal class Program
         while (!int.TryParse(System.Console.ReadLine(), out a) || a >= 50);
 
 
-        for (int i = a; i < 50; i++)
+        for (int i = a; i <= 50; i++)
         {
-            Console.WriteLine(Math.Pow(a, 3));
+            Console.WriteLine(Math.Pow(i, 3));
         }
 
         Console.WriteLine("все целые числа от a до b (значения a и b вводятся с клавиатуры; b > a)");
@@ -318,7 +330,7 @@ internal class Program
         do { System.Console.WriteLine("Введите второе число больше первого: "); }
         while (!int.TryParse(System.Console.ReadLine(), out num2) || num2 <= num1);
 
-        for (int i = num1; i < num2; i++)
+        for (int i = num1; i <= num2; i++)
         {
             Console.WriteLine(i);
         }
@@ -369,14 +381,50 @@ internal class Program
     public static void task20()
     {
         Console.WriteLine("Считая, что Земля — идеальная сфера с радиусом R 6350 км, определить расстояние до линии горизонта от точки с заданной высотой над Землей.");
+
+        double height, S, R = 6350;
+
+        do { Console.WriteLine("введите высоту:"); }
+        while (!Double.TryParse(Console.ReadLine(), out height));
+
+        S = Math.Pow(Math.Pow((R+height),2) - Math.Pow(R,2), 0.5);
+
+        Console.WriteLine("Расстояние до линии горизонта: {0}",S);
+
     }
     public static void task21()
     {
         Console.WriteLine("вычисления значения функции z=x3-2.5xy+1.78x2-2.5y+1 при любых значениях х и y;");
+        double x,y,z;
+        
+        do { Console.WriteLine("введите x:"); }
+        while (!Double.TryParse(Console.ReadLine(), out x));
+
+        do { Console.WriteLine("введите y:"); }
+        while (!Double.TryParse(Console.ReadLine(), out y));
+
+        z = Math.Pow(x, 3) - 2.5 * x * y + 1.78 * x * x - 2.5 * y + 1;
+
+        Console.WriteLine("z= {0}", z);
     }
     public static void task22()
     {
         Console.WriteLine("Даны два целых числа. Найти:\r\n\r\na. их среднее арифметическое;\r\n\r\nb. их среднее геометрическое.");
+        int a, b;
+        double Arifmet, Geometric;
+
+        do { Console.WriteLine("введите a(целое число):"); }
+        while (!Int32.TryParse(Console.ReadLine(), out a));
+
+        do { Console.WriteLine("введите b(целое число):"); }
+        while (!Int32.TryParse(Console.ReadLine(), out b));
+
+        Arifmet = (a + b) / 2;
+        Geometric = Math.Pow(a * b, 0.5);
+
+        Console.WriteLine("среднее арифметическое = {0}", Arifmet);
+        Console.WriteLine("среднее геометрическое = {0}",Geometric);
+
     }
 
 

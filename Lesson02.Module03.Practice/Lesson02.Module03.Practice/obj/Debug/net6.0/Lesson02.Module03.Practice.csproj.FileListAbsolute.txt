@@ -1,0 +1,15 @@
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson02.Module03.Practice\Lesson02.Module03.Practice\bin\Debug\net6.0\Lesson02.Module03.Practice.exe
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson02.Module03.Practice\Lesson02.Module03.Practice\bin\Debug\net6.0\Lesson02.Module03.Practice.deps.json
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson02.Module03.Practice\Lesson02.Module03.Practice\bin\Debug\net6.0\Lesson02.Module03.Practice.runtimeconfig.json
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson02.Module03.Practice\Lesson02.Module03.Practice\bin\Debug\net6.0\Lesson02.Module03.Practice.dll
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson02.Module03.Practice\Lesson02.Module03.Practice\bin\Debug\net6.0\Lesson02.Module03.Practice.pdb
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson02.Module03.Practice\Lesson02.Module03.Practice\obj\Debug\net6.0\Lesson02.Module03.Practice.csproj.AssemblyReference.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson02.Module03.Practice\Lesson02.Module03.Practice\obj\Debug\net6.0\Lesson02.Module03.Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson02.Module03.Practice\Lesson02.Module03.Practice\obj\Debug\net6.0\Lesson02.Module03.Practice.AssemblyInfoInputs.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson02.Module03.Practice\Lesson02.Module03.Practice\obj\Debug\net6.0\Lesson02.Module03.Practice.AssemblyInfo.cs
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson02.Module03.Practice\Lesson02.Module03.Practice\obj\Debug\net6.0\Lesson02.Module03.Practice.csproj.CoreCompileInputs.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson02.Module03.Practice\Lesson02.Module03.Practice\obj\Debug\net6.0\Lesson02.Module03.Practice.dll
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson02.Module03.Practice\Lesson02.Module03.Practice\obj\Debug\net6.0\refint\Lesson02.Module03.Practice.dll
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson02.Module03.Practice\Lesson02.Module03.Practice\obj\Debug\net6.0\Lesson02.Module03.Practice.pdb
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson02.Module03.Practice\Lesson02.Module03.Practice\obj\Debug\net6.0\Lesson02.Module03.Practice.genruntimeconfig.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson02.Module03.Practice\Lesson02.Module03.Practice\obj\Debug\net6.0\ref\Lesson02.Module03.Practice.dll
