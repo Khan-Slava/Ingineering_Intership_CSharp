@@ -1,0 +1,15 @@
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson2.Module3.Homework\Lesson2.Module3.Homework\bin\Debug\net6.0\Lesson2.Module3.Homework.exe
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson2.Module3.Homework\Lesson2.Module3.Homework\bin\Debug\net6.0\Lesson2.Module3.Homework.deps.json
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson2.Module3.Homework\Lesson2.Module3.Homework\bin\Debug\net6.0\Lesson2.Module3.Homework.runtimeconfig.json
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson2.Module3.Homework\Lesson2.Module3.Homework\bin\Debug\net6.0\Lesson2.Module3.Homework.dll
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson2.Module3.Homework\Lesson2.Module3.Homework\bin\Debug\net6.0\Lesson2.Module3.Homework.pdb
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson2.Module3.Homework\Lesson2.Module3.Homework\obj\Debug\net6.0\Lesson2.Module3.Homework.csproj.AssemblyReference.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson2.Module3.Homework\Lesson2.Module3.Homework\obj\Debug\net6.0\Lesson2.Module3.Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson2.Module3.Homework\Lesson2.Module3.Homework\obj\Debug\net6.0\Lesson2.Module3.Homework.AssemblyInfoInputs.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson2.Module3.Homework\Lesson2.Module3.Homework\obj\Debug\net6.0\Lesson2.Module3.Homework.AssemblyInfo.cs
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson2.Module3.Homework\Lesson2.Module3.Homework\obj\Debug\net6.0\Lesson2.Module3.Homework.csproj.CoreCompileInputs.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson2.Module3.Homework\Lesson2.Module3.Homework\obj\Debug\net6.0\Lesson2.Module3.Homework.dll
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson2.Module3.Homework\Lesson2.Module3.Homework\obj\Debug\net6.0\refint\Lesson2.Module3.Homework.dll
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson2.Module3.Homework\Lesson2.Module3.Homework\obj\Debug\net6.0\Lesson2.Module3.Homework.pdb
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson2.Module3.Homework\Lesson2.Module3.Homework\obj\Debug\net6.0\Lesson2.Module3.Homework.genruntimeconfig.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Lesson2.Module3.Homework\Lesson2.Module3.Homework\obj\Debug\net6.0\ref\Lesson2.Module3.Homework.dll
