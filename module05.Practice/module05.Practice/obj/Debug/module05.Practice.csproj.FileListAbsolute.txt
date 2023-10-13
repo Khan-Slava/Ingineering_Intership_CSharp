@@ -1,0 +1,8 @@
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\module05.Practice\module05.Practice\bin\Debug\module05.Practice.exe.config
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\module05.Practice\module05.Practice\bin\Debug\module05.Practice.exe
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\module05.Practice\module05.Practice\bin\Debug\module05.Practice.pdb
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\module05.Practice\module05.Practice\obj\Debug\module05.Practice.csproj.AssemblyReference.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\module05.Practice\module05.Practice\obj\Debug\module05.Practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\module05.Practice\module05.Practice\obj\Debug\module05.Practice.csproj.CoreCompileInputs.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\module05.Practice\module05.Practice\obj\Debug\module05.Practice.exe
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\module05.Practice\module05.Practice\obj\Debug\module05.Practice.pdb
