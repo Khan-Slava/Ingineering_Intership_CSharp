@@ -1,0 +1,11 @@
+C:\Users\vaces\source\repos\Новая папка (2)\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\vaces\source\repos\Новая папка (2)\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\vaces\source\repos\Новая папка (2)\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\vaces\source\repos\Новая папка (2)\ConsoleApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\vaces\source\repos\Новая папка (2)\ConsoleApp1\bin\Debug\ClassLibrary1.pdb
+C:\Users\vaces\source\repos\Новая папка (2)\ConsoleApp1\obj\Debug\Day7(Tanks).csproj.AssemblyReference.cache
+C:\Users\vaces\source\repos\Новая папка (2)\ConsoleApp1\obj\Debug\Day7(Tanks).csproj.SuggestedBindingRedirects.cache
+C:\Users\vaces\source\repos\Новая папка (2)\ConsoleApp1\obj\Debug\Day7(Tanks).csproj.CoreCompileInputs.cache
+C:\Users\vaces\source\repos\Новая папка (2)\ConsoleApp1\obj\Debug\Day7(Tanks).csproj.CopyComplete
+C:\Users\vaces\source\repos\Новая папка (2)\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\vaces\source\repos\Новая папка (2)\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
