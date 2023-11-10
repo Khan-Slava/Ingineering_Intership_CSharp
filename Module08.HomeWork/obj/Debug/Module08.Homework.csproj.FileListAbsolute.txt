@@ -1,0 +1,8 @@
+C:\Users\vaces\Source\Repos\Ingineering_Intership_CSharp\Module08.HomeWork\obj\Debug\Module08.Homework.csproj.AssemblyReference.cache
+C:\Users\vaces\Source\Repos\Ingineering_Intership_CSharp\Module08.HomeWork\obj\Debug\Module08.Homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\vaces\Source\Repos\Ingineering_Intership_CSharp\Module08.HomeWork\obj\Debug\Module08.Homework.csproj.CoreCompileInputs.cache
+C:\Users\vaces\Source\Repos\Ingineering_Intership_CSharp\Module08.HomeWork\obj\Debug\Module08.Practice.exe
+C:\Users\vaces\Source\Repos\Ingineering_Intership_CSharp\Module08.HomeWork\obj\Debug\Module08.Practice.pdb
+C:\Users\vaces\Source\Repos\Ingineering_Intership_CSharp\Module08.HomeWork\bin\Debug\Module08.Practice.exe.config
+C:\Users\vaces\Source\Repos\Ingineering_Intership_CSharp\Module08.HomeWork\bin\Debug\Module08.Practice.exe
+C:\Users\vaces\Source\Repos\Ingineering_Intership_CSharp\Module08.HomeWork\bin\Debug\Module08.Practice.pdb
