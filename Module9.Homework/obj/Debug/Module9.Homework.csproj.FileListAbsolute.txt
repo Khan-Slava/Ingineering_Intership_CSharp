@@ -1,0 +1,8 @@
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Module9.Homework\obj\Debug\Module9.Homework.csproj.AssemblyReference.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Module9.Homework\obj\Debug\Module9.Homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Module9.Homework\obj\Debug\Module9.Homework.csproj.CoreCompileInputs.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Module9.Homework\bin\Debug\Module9.Homework.exe.config
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Module9.Homework\bin\Debug\Module9.Homework.exe
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Module9.Homework\bin\Debug\Module9.Homework.pdb
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Module9.Homework\obj\Debug\Module9.Homework.exe
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Module9.Homework\obj\Debug\Module9.Homework.pdb
