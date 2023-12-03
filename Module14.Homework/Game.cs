@@ -6,38 +6,55 @@ using System.Threading.Tasks;
 
 namespace Module14.Homework
 {
-    public class Game<T>
+    public class Game
     {
-        public List<T> Players { get; set; }
-        public List<T> Cards { get; set; }
+        public List<Player> Players { get; set; }
+        public List<Card> AllCards { get; set; }
 
 
         //раздача карт
         void givesCards()
         {
+            int numOfPlayer = 0;
+            int countOfplayers= Players.Count;
+            while(AllCards.Count!=0)
+            {
 
+                Players[numOfPlayer].Cards.Add(AllCards[AllCards.Count-1]);
+                AllCards.RemoveAt(AllCards.Count-1);
+                
+                numOfPlayer++;
+                if (numOfPlayer > countOfplayers)
+                {
+                    numOfPlayer = 0;
+                }
+            }
+
+        
         }
 
         //перетасовка карт
         void shuffle() 
         {
-            List<T> ShuffledCards = new List<T>();
+            List<Card> ShuffledCards = new List<Card>();
             Random random = new Random();
-            int ListSize = Cards.Count;
+            int ListSize = AllCards.Count;
             for (int i = 0; i < ListSize; i++)
             {
-                int item = random.Next(0,Cards.Count);
-                ShuffledCards.Add(Cards[item]);
-                Cards.Remove(Cards[item]);
+                int item = random.Next(0,AllCards.Count);
+                ShuffledCards.Add(AllCards[item]);
+                AllCards.Remove(AllCards[item]);
 
             }
-            Cards = ShuffledCards;
+            AllCards = ShuffledCards;
         } 
 
-        public Game()
+        public Game(List<Player> Players,List<Card> AllCards)
         {
-            List<T> Players;
+            this.Players = Players;
+            this.AllCards = AllCards;
             
         }
+
     }
 }
