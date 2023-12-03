@@ -10,6 +10,8 @@ namespace Module9.Practice
     {
         static void Main(string[] args)
         {
+            /*Разработать приложение «Резервная копия»*/
+
             DVD dvd = new DVD("my dvd","TOSHIBA 1234",1024,6.6,2.5);
             Flash flash = new Flash("my flash", "Kingston 5678", 512, 16.6);
             List<double> sizeOfSections = new List<double>() {200,300,400,124 };
