@@ -12,10 +12,8 @@ namespace Module14.Practice
         {
             string text = "Вот дом, Который построил Джек. А это пшеница, Которая в темном чулане хранится В доме, Который построил Джек. А это веселая птица-синица, Которая часто ворует пшеницу, Которая в темном чулане хранится В доме, Который построил Джек.";
 
-            // Очистка текста от знаков препинания
             string[] words = text.Split(new[] { ' ', ',', '.', '-', '!', '?' }, StringSplitOptions.RemoveEmptyEntries);
 
-            // Подсчет статистики
             Dictionary<string, int> wordCount = new Dictionary<string, int>(StringComparer.OrdinalIgnoreCase);
             foreach (string word in words)
             {
