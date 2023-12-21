@@ -1,0 +1,13 @@
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Exam.Task11.LearnForeignLang\bin\Debug\Exam.Task11.LearnForeignLang.exe.config
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Exam.Task11.LearnForeignLang\bin\Debug\Exam.Task11.LearnForeignLang.exe
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Exam.Task11.LearnForeignLang\bin\Debug\Exam.Task11.LearnForeignLang.pdb
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Exam.Task11.LearnForeignLang\bin\Debug\LiteDB.dll
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Exam.Task11.LearnForeignLang\bin\Debug\LiteDB.xml
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Exam.Task11.LearnForeignLang\obj\Debug\Exam.Task11.LearnForeignLang.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Exam.Task11.LearnForeignLang\obj\Debug\Exam.Task11.LearnForeignLang.ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Exam.Task11.LearnForeignLang\obj\Debug\Exam.Task11.LearnForeignLang.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Exam.Task11.LearnForeignLang\obj\Debug\Exam.Task11.LearnForeignLang.ConsoleApp.csproj.CopyComplete
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Exam.Task11.LearnForeignLang\obj\Debug\Exam.Task11.LearnForeignLang.exe
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Exam.Task11.LearnForeignLang\obj\Debug\Exam.Task11.LearnForeignLang.pdb
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Exam.Task11.LearnForeignLang\bin\Debug\Exam.DLL.dll
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Exam.Task11.LearnForeignLang\bin\Debug\Exam.DLL.pdb

@@ -1,0 +1,9 @@
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Exam.DLL\bin\Debug\Exam.DLL.dll
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Exam.DLL\bin\Debug\Exam.DLL.pdb
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Exam.DLL\bin\Debug\LiteDB.dll
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Exam.DLL\bin\Debug\LiteDB.xml
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Exam.DLL\obj\Debug\Exam.DAL.csproj.AssemblyReference.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Exam.DLL\obj\Debug\Exam.DAL.csproj.CoreCompileInputs.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Exam.DLL\obj\Debug\Exam.DAL.csproj.CopyComplete
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Exam.DLL\obj\Debug\Exam.DLL.dll
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\Exam.DLL\obj\Debug\Exam.DLL.pdb
